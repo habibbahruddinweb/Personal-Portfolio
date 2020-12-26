@@ -1,0 +1,74 @@
+body
+    {
+        background-image: = "background1.gif"
+    }
+
+h1
+    {
+        background-color: coral; 
+		font-size: 100px; 
+		border: solid;
+		border-color: #3C1874;
+		border-radius: 50px;
+    }
+h2
+    {
+		background-color: transparent;
+		font-face: algerian;
+		font-size: 50px; 
+		color: indianred;
+		text-align-last: center;
+		border: solid;
+		border-color: black;
+		border-radius: 50px;
+    }
+
+h4
+	{
+		background-color: darkgreen; 
+		font-size: 80px; 
+		color: #F8F8FF;
+		border: dotted;
+		border-color: gold;
+		border-radius: 50px;
+	}
+
+h5
+	{
+		font-family: Monaco
+		color: skyblue;
+	}
+p
+    {
+		background-color: transparent;
+		font-size: 30px;
+		color: aqua; 
+		text-align: center;
+		font-family: 'Damion', cursive;
+		padding: 15px;              
+    }
+
+b
+	{
+		text-align: center; 
+	}
+
+
+
+a:link, a:visited
+	{
+		background-color: black;
+		color: gold;
+		text-align-last: center;
+		text-decoration: none;
+		display: inline-block;
+		border-radius: 25px;
+		padding: 15px;           
+   	}
+
+a:hover, a:active
+	{
+		background-color: white;
+		color: black;          
+   	}
+	
