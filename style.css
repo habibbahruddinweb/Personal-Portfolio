@@ -39,14 +39,16 @@ h4
 
 h5
 	{
-		font-family: Monaco
-		color: skyblue;
+		font-family: 'Bebas Neue', cursive;
+		background-color: 92958E;
+		border-width: 10;
+		color: red;
 	}
 
 h6
    {
 		background-color: transparent;
-		font-family: Candara;
+		font-family: 'Patrick Hand', cursive;
 		font-size: 25px; 
 		color: maroon;
 		text-align-last: center;
@@ -58,7 +60,7 @@ p
     {
 		background-color: transparent;
 		font-size: 30px;
-		color: aqua; 
+		color: 401fe6; 
 		text-align: center;
 		font-family: Philosopher;
 		padding: 15px;              
